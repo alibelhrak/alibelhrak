@@ -1,4 +1,8 @@
 ## Hi there 👋
+ # Hi There 😊
+<img alt="my stats" width="49%"  src="https://github-readme-stats.vercel.app/api?username=nightitachi">
+<img alt="Top Langs"   width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightitachi&layout=compact">
+
 
 <!--
 **nightitachi/nightitachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
