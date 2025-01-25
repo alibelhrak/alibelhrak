@@ -1,7 +1,9 @@
 ## Hi there 👋
- # Hi There 😊
-<img alt="my stats" width="49%"  src="https://github-readme-stats.vercel.app/api?username=nightitachi">
-<img alt="Top Langs"   width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightitachi&layout=compact">
+<div align="center">
+  <img alt="My Stats" width="49%"  height="200px" src="https://github-readme-stats.vercel.app/api?username=nightitachi">
+  <img alt="Top Langs" width="49%"  height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightitachi&layout=compact">
+</div>
+
 
 
 <!--
