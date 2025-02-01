@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,c,php" alt="Languages" />
-  <img src="https://skillicons.dev/icons?i=react,angular,express,symfony" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,angular,express" alt="Frameworks" />
   <img src="https://skillicons.dev/icons?i=intellij,git,github,bootstrap,mysql,mongodb,nodejs" alt="Tools" />
   <img src="https://skillicons.dev/icons?i=tensorflow,keras,matplotlib,seaborn" alt="ML Libraries" />
 </div>
