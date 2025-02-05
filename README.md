@@ -12,12 +12,23 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,c,php" alt="Languages" />
   <img src="https://skillicons.dev/icons?i=react,angular,express" alt="Frameworks" />
   <img src="https://skillicons.dev/icons?i=intellij,git,github,bootstrap,mysql,mongodb,nodejs" alt="Tools" />
+  <!-- TensorFlow & Keras -->
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" class="rounded-logo" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="50" style="border-radius: 20px;" />
+  
+  <!-- Matplotlib & Seaborn -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" />
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="170" />
-
-
+  
+  <!-- Pandas -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="100" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="80" />
+  
+  <!-- PyTorch -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="50" />
+  
+  
+  
 </div>
 
 <!--
