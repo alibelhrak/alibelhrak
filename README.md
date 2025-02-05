@@ -12,7 +12,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,c,php" alt="Languages" />
   <img src="https://skillicons.dev/icons?i=react,angular,express" alt="Frameworks" />
   <img src="https://skillicons.dev/icons?i=intellij,git,github,bootstrap,mysql,mongodb,nodejs" alt="Tools" />
-  <img src="https://skillicons.dev/icons?i=tensorflow,keras,matplotlib,seaborn" alt="ML Libraries" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" class="rounded-logo" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="170" />
+
+
 </div>
 
 <!--
