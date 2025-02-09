@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,c,php" alt="Languages" />
   <img src="https://skillicons.dev/icons?i=react,angular,express" alt="Frameworks" />
-  <img src="https://skillicons.dev/icons?i=intellij,git,github,bootstrap,mysql,mongodb,nodejs" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=intellij,git,bootstrap,mysql,mongodb,nodejs" alt="Tools" />
   <!-- TensorFlow & Keras -->
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="50" style="border-radius: 20px;" />
