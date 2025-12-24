@@ -1,19 +1,8 @@
 ## Hi there 👋
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=alibelhrak&show_icons=true&theme=default"
-    alt="Ali Belhrak's GitHub Stats"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibelhrak&layout=compact&theme=default"
-    alt="Top Languages"
-    width="48%"
-  />
+  <img alt="My Stats" width="49%"  height="200px" src="https://github-readme-stats.vercel.app/api?username=alibelhrak">
+  <img alt="Top Langs" width="49%"  height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibelhrak&layout=compact">
 </div>
-
-
-
 
 # 🛠Personal Used Languages and Tools:
 
