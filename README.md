@@ -1,6 +1,5 @@
 ## Hi there 👋
 <div align="center">
-  <img alt="My Stats" width="49%"  height="200px" src="https://github-readme-stats.vercel.app/api?username=alibelhrak">
   <img alt="Top Langs" width="49%"  height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibelhrak&layout=compact">
 </div>
 
