@@ -1,7 +1,4 @@
 ## Hi there 👋
-<div align="center">
-  <img alt="Top Langs" width="49%"  height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibelhrak&layout=compact">
-</div>
 
 # 🛠Personal Used Languages and Tools:
 
